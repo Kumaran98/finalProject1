@@ -7,7 +7,7 @@ fastapi==0.87.0
 fonttools==4.38.0
 h11==0.14.0
 idna==3.4
-joblib @ file:///C:/b/abs_e60_bwl1v6/croot/joblib_1666298845728/work
+
 kiwisolver==1.4.4
 matplotlib==3.6.2
 numpy==1.23.4
